@@ -17,8 +17,10 @@ Classificação de texto
 Esse projeto é um classificador de texto para identificar mensagens de spam e não spam utilizando uma rede neural recorrente com LSTMs (Long Short-Term Memory). 
 A ideia principal é treinar um modelo para prever se uma mensagem de texto é spam ou não com base em seu conteúdo.
 O projeto inclui scripts para:
+    
     Preprocessamento: As mensagens são tokenizadas e convertidas em sequências de números. Os dados são então divididos em treinamento e teste.
     Construção do Modelo: Um modelo de rede neural com camadas LSTM é criado para aprender as sequências de texto.
     Treinamento: O modelo é treinado utilizando cross-validation para garantir que o desempenho seja consistente entre diferentes subconjuntos dos dados.
     Avaliação: O modelo é avaliado em termos de perda (loss) e precisão (accuracy).
+
 Esse projeto é uma aplicação prática de Processamento de Linguagem Natural (NLP) e Redes Neurais, voltado para a detecção de spam, e pode ser expandido para outros tipos de classificação de texto.
