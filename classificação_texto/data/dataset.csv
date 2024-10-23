@@ -1,0 +1,64 @@
+text,label
+"Congratulations! You've won a prize!",spam
+"Your appointment is confirmed.",not spam
+"Click here to claim your reward!",spam
+"See you at the meeting tomorrow.",not spam
+"Free entry in 2 a weekly competition to win FA Cup final tickets!",spam
+"Important: Your account has been compromised. Please reset your password.",spam
+"This is a reminder about your appointment next week.",not spam
+"Limited time offer! Get 50% off your first purchase.",spam
+"Don't miss out on this opportunity.",spam
+"Your invoice is attached.",not spam
+"Claim your free trial now!",spam
+"Meeting confirmation for next week.",not spam
+"Exclusive offer just for you!",spam
+"Your subscription has been renewed.",not spam
+"Urgent: Update your billing information.",spam
+"Thank you for your order!",not spam
+"Get paid to take surveys!",spam
+"Final notice: Your payment is overdue.",spam
+"New job opportunities available!",not spam
+"Special discount for loyal customers!",spam
+"Follow up on our last conversation.",not spam
+"Congratulations, you are selected for a free gift!",spam
+"Don't forget about your meeting next week.",not spam
+"You have a new message from your bank.",not spam
+"Earn money fast by working from home!",spam
+"Your delivery has been scheduled.",not spam
+"Win a brand new car! Click to enter!",spam
+"Your monthly statement is ready.",not spam
+"Act now for a chance to win a vacation!",spam
+"Your password has been successfully changed.",not spam
+"Don't miss this exclusive offer!",spam
+"Hello, how can I help you today?",not spam
+"Get rich quick with this one simple trick!",spam
+"Your account has been temporarily suspended.",spam
+"Reminder: Your payment is due soon.",not spam
+"Earn up to $500 a day!",spam
+"Your feedback is important to us.",not spam
+"Claim your cash prize now!",spam
+"Notice of data breach affecting your account.",spam
+"Join our webinar on financial planning.",not spam
+"Congratulations! You've been pre-approved for a loan!",spam
+"Your request for information has been received.",not spam
+"Unlock exclusive deals and offers!",spam
+"Your credit score has been updated.",not spam
+"Limited time only: Free vacation for 2!",spam
+"See attached for important documents.",not spam
+"Your recent purchase has shipped!",not spam
+"Click to confirm your email address!",spam
+"Your service has been upgraded.",not spam
+"Your subscription will be renewed automatically.",not spam
+"Congratulations! You've won a free ticket to the concert!",spam
+"Thank you for your interest in our services.",not spam
+"Act fast! Only a few spots left!",spam
+"Follow us on social media for more updates.",not spam
+"Exclusive access to our members-only sale!",spam
+"Important: Changes to your account.",spam
+"Your application has been processed.",not spam
+"Last chance to take advantage of this offer!",spam
+"Have you checked your account statement?",not spam
+"Congratulations! You've won a gift card!",spam
+"Reminder: Your appointment is in 30 minutes.",not spam
+
+

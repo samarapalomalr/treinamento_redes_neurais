@@ -1,0 +1,9 @@
+tensorflow
+numpy
+pandas
+scikit-learn
+Python 3
+TensorFlow Datasets
+NumPy
+Matplotlib
+Pillow
